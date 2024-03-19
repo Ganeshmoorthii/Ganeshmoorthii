@@ -9,7 +9,7 @@ Computer Science Engineering Student
 - 💬 Ask me about Tech
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/m-ganesh-moorthi-903798258) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/m_g_moorthi/)
+<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([www.linkedin.com/in/m-ganesh-moorthi-903798258](https://www.linkedin.com/feed/)) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/m_g_moorthi/)
 - 📚 Exploring new programming languages and frameworks.
 - 💬 Feel free to ask me anything about the latest in technology trends and innovations!
 
