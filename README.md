@@ -22,4 +22,25 @@ Computer Science Engineering Student
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ganesh_32?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/ganesh_32/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganeshmoorthii&bg_color=000000&color=ffffff&line=03e229&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="http://www.github.com/Ganeshmoorthii"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshmoorthii&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ganeshmoorthii&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
