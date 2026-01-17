@@ -22,42 +22,42 @@
 ### I Code In 
 <p align="left">
   <!-- Languages -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
 
   <!-- Frontend -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="Bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="Bootstrap"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+  <img width="56" height="56" src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
 
   <!-- Backend & Frameworks -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="ASP.NET"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/net-framework.png" alt="ASP.NET"/>
 
   <!-- Databases -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
 
   <!-- DevOps & Version Control -->
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img width="56" height="56" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
 
   <!-- IDEs & Tools -->
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans"/>
-  <img width="48" height="48" src="https://img.icons8.com/dusk/48/anaconda.png" alt="Anaconda"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server Management Studio"/>
+  <img width="56" height="56" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans"/>
+  <img width="56" height="56" src="https://img.icons8.com/dusk/48/anaconda.png" alt="Anaconda"/>
+  <img width="56" height="56" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server Management Studio"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
