@@ -1,24 +1,65 @@
-<h2 align="left">Hi there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> It's me Ganesh</h2>
-<p><img align="right" width="380" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<h2 align="left">Hey there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm Ganesh Moorthi</h2>
+<p>
+  <img align="right" width="380"
+       src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
+       alt="developer animation" />
+</p>
 
-## Computer Science Engineering Student 
+### Software Engineer | BE CSE (Final Year) 
 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Web Developer
-- 💬 Ask me about Tech
-- 😄 Pronouns: Techie
-- 📫 How to reach me :
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-ganesh-moorthi-903798258/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/m_g_moorthi/)
-- 📚 Exploring new programming languages and frameworks.
-- 💬 Feel free to ask me anything about the latest in technology trends and innovations!
+- 🚀 **Currently:** Transitioning into a full-time Software Development Engineer role at **Soft Suave**
+- 💼 **Building:** Fintech **Stock Screener MVP** (targeting live users by **Q2 2026**)
+- 🎯 **Learning:** Advanced **DSA**, **System Design**, and **LeetCode Hard**
+- 👯 **Open to collaborate:** Full-stack projects, fintech products, and startup MVPs
+- 📈 **Career goal:** **SDE-1 → SDE-2 → Tech Lead** by age 28
+- 📚 **Exploring:** New programming languages, frameworks, and scalable architecture
+
+  ### How to reach me :
+<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-ganesh-moorthi-903798258/) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@CodeByGanesh) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mgmoorthi2004@gmail.com) [<img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/MGaneshMoorthi1)[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/m_g_moorthi/) 
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### I Code In 
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" /> <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming" /> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" /> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" /> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" /> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1" /> <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react" /> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" /> <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" /> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" /> <img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" /> <img width="50" height="50" src="https://img.icons8.com/ios/50/api-settings.png" alt="api-settings" />
+<p align="left">
+  <!-- Languages -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
 
-### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" /> <img width="48" height="48" src="https://img.icons8.com/dusk/64/anaconda.png" alt="anaconda" /> <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github" /> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1" /> <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans" /> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" />
+  <!-- Frontend -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="Bootstrap"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
+
+  <!-- Backend & Frameworks -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="ASP.NET"/>
+
+  <!-- Databases -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
+
+  <!-- DevOps & Version Control -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+
+  <!-- IDEs & Tools -->
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="NetBeans"/>
+  <img width="48" height="48" src="https://img.icons8.com/dusk/48/anaconda.png" alt="Anaconda"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server Management Studio"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
