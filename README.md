@@ -8,7 +8,6 @@
 ### Software Engineer | BE CSE (Final Year) 
 
 - 🚀 **Currently:** Transitioning into a full-time Software Development Engineer role at **Soft Suave**
-- 💼 **Building:** Fintech **Stock Screener MVP** (targeting live users by **Q2 2026**)
 - 🎯 **Learning:** Advanced **DSA**, **System Design**, and **LeetCode Hard**
 - 👯 **Open to collaborate:** Full-stack projects, fintech products, and startup MVPs
 - 📈 **Career goal:** **SDE-1 → SDE-2 → Tech Lead** by age 28
